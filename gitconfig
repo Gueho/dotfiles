@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gh715@me.com
+	name = GueHo Jang
